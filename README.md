@@ -13,4 +13,4 @@ El programa deberá poder realizar las siguientes acciones:
 • Créditos.
 Elaborado por Paul Francisco Granados Ojeda 
 
-• Licencia.
+
